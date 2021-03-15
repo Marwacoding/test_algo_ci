@@ -3,6 +3,7 @@ on:
   - push
 jobs:
   FistTaks:
-  steps:
-    - name: First step
-      run: echo "Hello Word"
+    runs-on: ubuntu-latest
+    steps:
+     - name: First step
+       run: echo "Hello Word"
