@@ -1,8 +1,0 @@
-name : Worklow Hello Word
-on:
-  -push
-jobs:
-  FistTaks:
-  steps:
-    - name: First step
-    run: echo "Hello Word"
