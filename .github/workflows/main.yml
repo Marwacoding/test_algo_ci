@@ -5,4 +5,4 @@ jobs:
   FistTaks:
   steps:
     - name: First step
-    run: echo "Hello Word"
+      run: echo "Hello Word"
