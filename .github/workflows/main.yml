@@ -1,6 +1,6 @@
 name : Worklow Hello Word
 on:
-  -push
+  - push
 jobs:
   FistTaks:
   steps:
